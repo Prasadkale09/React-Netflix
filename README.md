@@ -1,3 +1,4 @@
+![Screenshot 2023-07-11 195140](https://github.com/Prasadkale09/React-Netflix/assets/98744936/903af6ce-a45d-47c5-bd9d-861e60bc0260)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
