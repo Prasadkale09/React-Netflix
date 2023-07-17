@@ -1,3 +1,5 @@
+![Screenshot 2023-07-11 195140](https://github.com/Prasadkale09/React-Netflix/assets/98744936/cb114f32-dde8-40ba-8488-3a4a261bf067)
+![Screenshot 2023-07-11 195140](https://github.com/Prasadkale09/React-Netflix/assets/98744936/90d6820b-0ffd-4fa6-8830-12da6f12e7ee)
 ![Screenshot 2023-07-11 195140](https://github.com/Prasadkale09/React-Netflix/assets/98744936/903af6ce-a45d-47c5-bd9d-861e60bc0260)
 # Getting Started with Create React App
 
